@@ -21,7 +21,7 @@ class splashActivity : AppCompatActivity() {
             run() {
 
                 try {
-                    sleep(10000)
+                    sleep(6500)
                 } catch (e: Exception) {
                     e.printStackTrace()
                 }
